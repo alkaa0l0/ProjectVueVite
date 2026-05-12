@@ -1,15 +1,19 @@
 
 ## Запуск
-
-npm install ||
+```bash
+npm install
+```
+```bash
 npm run dev
-
+```
 
 Откроется на http://localhost:5173
 
 ## Сборка
 
+```bash
 npm run build
+```
 
 ## Структура
 
